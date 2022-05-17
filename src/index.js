@@ -7,7 +7,24 @@
 // datatypes JS 
 // variables
 // When I say what is 1 + 1 = 2, What is 1 == 1 True
+/*
+{
+1 + 1 // 2
 
+1 +  // ? using this wrong
+
+1 + car // using this wrong
+
+1 + '1' // using this wrong
+
++ takes two numbers and exactyly 2 and returns the sum
+
+
+
+
+
+}
+*/
 // ------Questions-----
 
 // 1. What is the Difference Between =, ==, and === in JavaScript 
