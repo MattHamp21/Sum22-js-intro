@@ -33,6 +33,7 @@ GITHUB -is the repo (on the web)
 
 1. create your own repo or clone repo fom github
 2. Install dependencies (yarn)
+3. Making Changes commiting locally
 
 // Then we start working on project
 // Make changes and save in vs code
@@ -40,6 +41,6 @@ GITHUB -is the repo (on the web)
 // vscode: add files in vscode
 // git add . or add files in vscode
 
+4: Making changes in github 'pull'(future
 
------or --
-terminal
+5: grab changes github... 
