@@ -1,46 +1,16 @@
-# Jest Starter Project
+# Intro to JS
 
-Starter for coding with jest.
+# github Cheatsheet
+now that we have this setup if we wnat to save a change to github..
 
-## Tools
+* These need ot be done in this order 
+* evertything in vscode
 
-- Jest for testing
-- Babel to enable nice things like `import` in Node
+//stage
+git add .
 
-## Getting Started
+// commit
+git commit -m 'short message > 50 hcars about what you did'
 
-### Install dependencies
-
-Before starting to code, don't forget to install all dependencies.
-
-```shell
-yarn
-or
-npm install
-```
-
-### Running tests
-
-Run all tests once:
-
-```shell
-yarn test
-```
-
-### GIT/GITHUB
-GIT - is the repository/ repo (your code, or project that git is tracking) on your computer
-GITHUB -is the repo (on the web)
-
-1. create your own repo or clone repo fom github
-2. Install dependencies (yarn)
-3. Making Changes commiting locally
-
-// Then we start working on project
-// Make changes and save in vs code
-// 'commit' - saving changes in git 2 steps
-// vscode: add files in vscode
-// git add . or add files in vscode
-
-4: Making changes in github 'pull'(future
-
-5: grab changes github... 
+// push 
+git push origin master
